@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.ab{
+    color: chocolate;
+    background-color: darkcyan;
+    font-size: 5em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    text-decoration: solid;
+    text-shadow: 5em ;
+}
+
+#bj{
+    color: crimson;
+font-size: medium  ;
+}
+
+.one{
+    text-align: justify;
+    color: darkviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.two{
+    display:block;
+    margin: 35%;
+width: 200rem;
+}
